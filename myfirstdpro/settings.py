@@ -25,7 +25,7 @@ SECRET_KEY = 'smg&f1tpcscw#oj)lzd8fgkc4*7d_+h)&!040%w&g#kg+pjx1j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8081', 'epsumlabs.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', "epsumlabs.pythonanywhere.com"];
 
 
 # Application definition
